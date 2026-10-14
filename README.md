@@ -1,1 +1,1 @@
-
+skeleton: NAFATH-V1
