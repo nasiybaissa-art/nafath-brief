@@ -17,13 +17,3 @@ Resource: National Institute of Standards and Technology. (2020). Digital identi
 Resource : Sultanate of Oman. (2022). Royal Decree No. 6/2022 Promulgating the Personal Data Protection Law. Official Gazette, Issue No. 1429.
  Ministry of Transport, Communications and Information Technology [MTCIT]. (2024). Ministerial Decision No. 34/2024 Issuing the Executive Regulations of the Personal Data Protection Law. Official Gazette, Issue No. 1531.
 analysis: A common misconception is that a Secure National Digital Login Service enables government surveillance or full data access. In reality, as detailed in the official framework sections "Digital Identity Myths & Misconceptions" and "Data Privacy & Authentication Standards," the service utilizes Public Key Infrastructure (PKI) and zero-knowledge encryption to authenticate identities without compromising personal activity. To evaluate or implement this service, the focus should be on its trust model and recovery architecture—ensuring secure identity restoration during device loss or biometric failure while maintaining non-smartphone accessibility. Key technical considerations include deploying phishing-resistant FIDO2/WebAuthn protocols, enforcing zero-knowledge selective disclosure, eliminating single points of failure, and adhering to global standards like OpenID Connect.
-
-
-
-
-
-
-
-
-
- 
