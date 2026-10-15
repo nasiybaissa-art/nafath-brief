@@ -13,5 +13,17 @@ Resource: IETF. (2018). DNS Queries over HTTPS (DoH) (RFC 8484). Network Working
 An authentication method is phishing-resistant if it cryptographically binds to the legitimate website’s domain (e.g., physical security keys and FIDO2-based Passkeys). Traditional methods like SMS codes and TOTP authenticator apps do not qualify, as they remain vulnerable to fake websites.
 Resource: National Institute of Standards and Technology. (2020). Digital identity guidelines (NIST Special Publication 800-63B). U.S. Department of Commerce.
  FIDO Alliance. (2023). FIDO authentication overview: Phishing-resistant MFA. FIDO Alliance Specifications.
+#Data,Under Oman's Personal Data Protection Law, data controllers must secure prior explicit consent, define processing goals, enforce strict security, erase data post-purpose, and instantly report breaches.
+Resource : Sultanate of Oman. (2022). Royal Decree No. 6/2022 Promulgating the Personal Data Protection Law. Official Gazette, Issue No. 1429.
+ Ministry of Transport, Communications and Information Technology [MTCIT]. (2024). Ministerial Decision No. 34/2024 Issuing the Executive Regulations of the Personal Data Protection Law. Official Gazette, Issue No. 1531.
+analysis: 
+
+
+
+
+
+
+
+
 
  
