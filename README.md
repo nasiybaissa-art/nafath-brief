@@ -7,3 +7,11 @@ Resource:(RFC 6749; Sakimura et al., 2014).
 Resource: National Institute of Standards and Technology. (2023). Artificial Intelligence Risk Management Framework (AI RMF 1.0). U.S. Department of Commerce.
 #Mobile: Android restricts sensitive permissions by default, requiring apps to request them interactively at runtime only when needed.
 Resource:(Android Open Source Project, 2026).
+research: #Networking, DNS over HTTPS (DoH) encrypts DNS queries to prevent eavesdropping and manipulation. However, it does not hide visited IP addresses, encrypt web content, or prevent tracking by the DoH provider.
+Resource: IETF. (2018). DNS Queries over HTTPS (DoH) (RFC 8484). Network Working Group. https://doi.org/10.17487/RFC8484.
+#Cybersecurity,Phishing-Resistant Authentication
+An authentication method is phishing-resistant if it cryptographically binds to the legitimate website’s domain (e.g., physical security keys and FIDO2-based Passkeys). Traditional methods like SMS codes and TOTP authenticator apps do not qualify, as they remain vulnerable to fake websites.
+Resource: National Institute of Standards and Technology. (2020). Digital identity guidelines (NIST Special Publication 800-63B). U.S. Department of Commerce.
+ FIDO Alliance. (2023). FIDO authentication overview: Phishing-resistant MFA. FIDO Alliance Specifications.
+
+ 
